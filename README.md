@@ -3,6 +3,6 @@ Neural networks built w/ Tensorflow 2.X that create psychedelic/abstract art. In
 
 ![alt text](https://github.com/pernutbrian/DeepMarianaTrench/blob/main/results/Capture.JPG)
 
-![alt text]https://github.com/pernutbrian/DeepMarianaTrench/blob/main/results/2.JPG
+![alt text1]https://github.com/pernutbrian/DeepMarianaTrench/blob/main/results/2.JPG
 
-![alt text]https://github.com/pernutbrian/DeepMarianaTrench/blob/main/results/1.png
+![alt text2]https://github.com/pernutbrian/DeepMarianaTrench/blob/main/results/1.png
